@@ -1,0 +1,15 @@
+E:\DAC\DotNet\Labexam1\bin\Debug\net7.0\Labexam1.exe
+E:\DAC\DotNet\Labexam1\bin\Debug\net7.0\Labexam1.deps.json
+E:\DAC\DotNet\Labexam1\bin\Debug\net7.0\Labexam1.runtimeconfig.json
+E:\DAC\DotNet\Labexam1\bin\Debug\net7.0\Labexam1.dll
+E:\DAC\DotNet\Labexam1\bin\Debug\net7.0\Labexam1.pdb
+E:\DAC\DotNet\Labexam1\obj\Debug\net7.0\Labexam1.csproj.AssemblyReference.cache
+E:\DAC\DotNet\Labexam1\obj\Debug\net7.0\Labexam1.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAC\DotNet\Labexam1\obj\Debug\net7.0\Labexam1.AssemblyInfoInputs.cache
+E:\DAC\DotNet\Labexam1\obj\Debug\net7.0\Labexam1.AssemblyInfo.cs
+E:\DAC\DotNet\Labexam1\obj\Debug\net7.0\Labexam1.csproj.CoreCompileInputs.cache
+E:\DAC\DotNet\Labexam1\obj\Debug\net7.0\Labexam1.dll
+E:\DAC\DotNet\Labexam1\obj\Debug\net7.0\refint\Labexam1.dll
+E:\DAC\DotNet\Labexam1\obj\Debug\net7.0\Labexam1.pdb
+E:\DAC\DotNet\Labexam1\obj\Debug\net7.0\Labexam1.genruntimeconfig.cache
+E:\DAC\DotNet\Labexam1\obj\Debug\net7.0\ref\Labexam1.dll
